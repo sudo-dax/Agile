@@ -23,11 +23,13 @@ Overview:
 ### How Does Agile Planning Work?
 ![Break it down](./docs/planning.png)
 
-    • The master story list is your project to-do list
-        ◦ Contains all the high-level features (user stories)
-        ◦ Forms basis of your project plan
-        ◦ Add estimates for each chunk / user story
-    • The Iteration
-        ◦ a one- to two-week period where you take your customers’ most important stories and transform them into running, tested software.
-        ◦ Team members will know how much they can take on by measuring the team velocity (how much you can get done per iteration).
-        ◦ 
+- The master story list is your project to-do list
+    - Contains all the high-level features (user stories)
+    - Forms basis of your project plan
+    - Add estimates for each chunk / user story
+
+- The Iteration
+    - a one- to two-week period where you take your customers’ most important stories and transform them into running, tested software.
+    - Team members will know how much they can take on by measuring the team velocity (how much you can get done per iteration).
+    - When you and your team are faced with too much to do, you do the only thing you can—you do less. Being **flexible on scope** is how you’ll keep your plan balanced and your commitments real.
+
