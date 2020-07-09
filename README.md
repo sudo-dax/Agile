@@ -33,3 +33,19 @@ Overview:
     - Team members will know how much they can take on by measuring the team velocity (how much you can get done per iteration).
     - When you and your team are faced with too much to do, you do the only thing you can—you do less. Being **flexible on scope** is how you’ll keep your plan balanced and your commitments real.
 
+
+### Pictures are a great way to brainstorm ideas about the system and are a treasure trove for discovering stories.
+
+![Break it down](./docs/planning-pics.png)
+
+Personas (descriptions of the people who are going to be using your sys-
+tem) are good for getting to know your customers. Flowcharts, process
+flows, and scenarios are great for role playing and really getting a feel
+for how the system needs to work. 
+
+Step 1: Get a Big Open Room
+Step 2: Draw Lots of Pictures
+Step 3: Write Lots of Stories
+Step 4: Brainstorm Everything Else
+Step 5: Scrub the List and Make It Shine
+
